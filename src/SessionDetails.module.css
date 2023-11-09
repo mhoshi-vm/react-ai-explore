@@ -1,0 +1,532 @@
+.vectorIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group,
+.logIn {
+  position: absolute;
+  top: 25%;
+  left: 31.73%;
+}
+.group {
+  height: 3.86%;
+  width: 7.22%;
+  top: 2.58%;
+  right: 2.22%;
+  bottom: 93.56%;
+  left: 90.56%;
+  color: #fff;
+}
+.group1,
+.signUp {
+  position: absolute;
+  top: 25%;
+  left: 29.02%;
+}
+.group1 {
+  height: 3.86%;
+  width: 7.78%;
+  top: 2.58%;
+  right: 10.56%;
+  bottom: 93.56%;
+  left: 81.67%;
+  color: #202326;
+}
+.group2,
+.search {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group2 {
+  height: 3%;
+  width: 4.51%;
+  top: 2.79%;
+  right: 93.26%;
+  bottom: 94.21%;
+  left: 2.22%;
+  font-size: 24px;
+}
+.group3,
+.group4,
+.group5 {
+  position: absolute;
+  height: 1.72%;
+  width: 5.56%;
+  top: 10.94%;
+  right: 92.22%;
+  bottom: 87.34%;
+  left: 2.22%;
+}
+.group4,
+.group5 {
+  width: 5.42%;
+  right: 81.94%;
+  left: 12.64%;
+}
+.group5 {
+  width: 5.9%;
+  right: 72.43%;
+  left: 21.67%;
+}
+.group6,
+.maskGroup,
+.results {
+  position: absolute;
+  top: 55.56%;
+  left: 0;
+}
+.group6,
+.maskGroup {
+  height: 180%;
+  width: 45.56%;
+  top: 5%;
+  right: 54.44%;
+  bottom: -85%;
+}
+.maskGroup {
+  height: 2.15%;
+  width: 6.25%;
+  top: 10.84%;
+  right: 63.61%;
+  bottom: 87.02%;
+  left: 30.14%;
+}
+.group7,
+.maskGroup1 {
+  position: absolute;
+  height: 180%;
+  width: 51.02%;
+  top: 5%;
+  right: 48.98%;
+  bottom: -85%;
+  left: 0;
+}
+.maskGroup1 {
+  height: 2.15%;
+  width: 6.81%;
+  top: 10.84%;
+  right: 55.42%;
+  bottom: 87.02%;
+  left: 37.78%;
+}
+.group8,
+.maskGroup2 {
+  position: absolute;
+  height: 180%;
+  width: 65%;
+  top: 5%;
+  right: 35%;
+  bottom: -85%;
+  left: 0;
+}
+.maskGroup2 {
+  height: 2.15%;
+  width: 6.94%;
+  top: 10.84%;
+  right: 47.08%;
+  bottom: 87.02%;
+  left: 45.97%;
+}
+.group9,
+.search2 {
+  position: absolute;
+  top: 25%;
+  left: 30.45%;
+}
+.group9 {
+  height: 3.86%;
+  width: 7.64%;
+  top: 9.98%;
+  right: 5%;
+  bottom: 86.16%;
+  left: 87.36%;
+  color: #202326;
+}
+.frameIcon {
+  position: absolute;
+  height: 2.58%;
+  width: 1.67%;
+  top: 10.62%;
+  right: 2.22%;
+  bottom: 86.8%;
+  left: 96.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group10 {
+  position: absolute;
+  height: 2.04%;
+  width: 3.68%;
+  top: 16.58%;
+  right: 92.71%;
+  bottom: 81.38%;
+  left: 3.61%;
+  font-size: 16px;
+  color: #737373;
+}
+.frameIcon1,
+.groupIcon,
+.groupIcon1,
+.groupIcon2,
+.groupIcon3 {
+  position: absolute;
+  height: 1.29%;
+  width: 0.83%;
+  top: 17.06%;
+  right: 96.94%;
+  bottom: 81.65%;
+  left: 2.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2,
+.groupIcon3 {
+  height: 56.22%;
+  width: 32.36%;
+  top: 20.6%;
+  right: 54.03%;
+  bottom: 23.18%;
+  left: 13.61%;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3 {
+  height: 17.6%;
+  width: 10.28%;
+  top: 20.71%;
+  right: 87.5%;
+  bottom: 61.7%;
+  left: 2.22%;
+}
+.groupIcon2,
+.groupIcon3 {
+  top: 39.91%;
+  bottom: 42.49%;
+}
+.groupIcon3 {
+  top: 59.23%;
+  bottom: 23.18%;
+}
+.group11 {
+  position: absolute;
+  height: 4.08%;
+  width: 13.54%;
+  top: 17.92%;
+  right: 37.85%;
+  bottom: 78%;
+  left: 48.61%;
+  font-size: 32px;
+  color: #ff9500;
+}
+.group12,
+.summary {
+  position: absolute;
+  top: 16.67%;
+  left: 20.95%;
+}
+.group12 {
+  height: 5.15%;
+  width: 12.43%;
+  top: 36.7%;
+  right: 38.26%;
+  bottom: 58.15%;
+  left: 49.31%;
+  font-size: 24px;
+  color: #202326;
+}
+.frameIcon2,
+.groupIcon4,
+.groupIcon5,
+.vectorIcon5 {
+  position: absolute;
+  height: 4.29%;
+  width: 2.78%;
+  top: 27.04%;
+  right: 47.92%;
+  bottom: 68.67%;
+  left: 49.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon2,
+.groupIcon5,
+.vectorIcon5 {
+  height: 10.73%;
+  width: 6.94%;
+  top: 0;
+  right: 93.06%;
+  bottom: 89.27%;
+  left: 0;
+}
+.frameIcon2,
+.groupIcon5 {
+  height: 1.72%;
+  width: 1.11%;
+  top: 29.83%;
+  right: 47.78%;
+  bottom: 68.45%;
+  left: 51.11%;
+}
+.frameIcon2 {
+  height: 0.64%;
+  width: 0.42%;
+  top: 30.36%;
+  right: 48.13%;
+  bottom: 68.99%;
+  left: 51.46%;
+}
+.group13 {
+  position: absolute;
+  height: 3.86%;
+  width: 10.21%;
+  top: 27.36%;
+  right: 36.88%;
+  bottom: 68.78%;
+  left: 52.92%;
+}
+.frameIcon3,
+.frameIcon4,
+.frameIcon5,
+.frameIcon6,
+.frameIcon7 {
+  position: absolute;
+  height: 1.5%;
+  width: 0.97%;
+  top: 31.76%;
+  right: 46.11%;
+  bottom: 66.74%;
+  left: 52.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon4,
+.frameIcon5,
+.frameIcon6,
+.frameIcon7 {
+  right: 42.78%;
+  left: 56.25%;
+}
+.frameIcon5,
+.frameIcon6,
+.frameIcon7 {
+  right: 45%;
+  left: 54.03%;
+}
+.frameIcon6,
+.frameIcon7 {
+  right: 41.67%;
+  left: 57.36%;
+}
+.frameIcon7 {
+  right: 43.89%;
+  left: 55.14%;
+}
+.text {
+  position: absolute;
+  top: 7.21%;
+  left: 0;
+}
+.divevmwareTanzuTechnic,
+.vmwareTanzuTechnical {
+  position: absolute;
+  top: 14.43%;
+  left: 0;
+}
+.divevmwareTanzuTechnic {
+  top: 21.64%;
+}
+.divevmwareTanzuTechnic1 {
+  position: absolute;
+  top: 28.85%;
+  left: 0;
+}
+.divevmwareTanzuTechnic2 {
+  position: absolute;
+  top: 36.07%;
+  left: 0;
+}
+.divevmwareTanzuTechnic3 {
+  position: absolute;
+  top: 43.28%;
+  left: 0;
+}
+.divevmwareTanzuTechnic4 {
+  position: absolute;
+  top: 50.49%;
+  left: 0;
+}
+.divevmwareTanzuTechnic5 {
+  position: absolute;
+  top: 57.7%;
+  left: 0;
+}
+.divevmwareTanzuTechnic6 {
+  position: absolute;
+  top: 64.92%;
+  left: 0;
+}
+.divevmwareTanzuTechnic7 {
+  position: absolute;
+  top: 72.13%;
+  left: 0;
+}
+.divevmwareTanzuTechnic8 {
+  position: absolute;
+  top: 79.34%;
+  left: 0;
+}
+.dive,
+.divevmwareTanzuTechnic9,
+.group14 {
+  position: absolute;
+  top: 86.56%;
+  left: 0;
+}
+.dive,
+.group14 {
+  top: 93.77%;
+}
+.group14 {
+  height: 32.73%;
+  width: 21.04%;
+  top: 42.97%;
+  right: 29.65%;
+  bottom: 24.3%;
+  left: 49.31%;
+  font-size: 16px;
+}
+.group15,
+.viewSessionNow {
+  position: absolute;
+  top: 26.04%;
+  left: 23.8%;
+}
+.group15 {
+  height: 5.15%;
+  width: 20.28%;
+  top: 81.76%;
+  right: 31.11%;
+  bottom: 13.09%;
+  left: 48.61%;
+  font-size: 18px;
+  color: #fff;
+}
+.frameIcon10,
+.frameIcon8,
+.frameIcon9,
+.groupIcon6,
+.groupIcon7,
+.groupIcon8 {
+  position: absolute;
+  height: 5.15%;
+  width: 3.33%;
+  top: 81.87%;
+  right: 26.25%;
+  bottom: 12.98%;
+  left: 70.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon10,
+.frameIcon8,
+.frameIcon9,
+.groupIcon7,
+.groupIcon8 {
+  height: 1.72%;
+  width: 1.11%;
+  top: 22.32%;
+  right: 6.67%;
+  bottom: 75.97%;
+  left: 92.22%;
+}
+.frameIcon10,
+.frameIcon9,
+.groupIcon7,
+.groupIcon8 {
+  right: 4.44%;
+  left: 94.44%;
+}
+.frameIcon10,
+.groupIcon7,
+.groupIcon8 {
+  right: 2.22%;
+  left: 96.67%;
+}
+.groupIcon7,
+.groupIcon8 {
+  height: 0.11%;
+  width: 100%;
+  top: 14.7%;
+  right: 0;
+  bottom: 85.19%;
+  left: 0;
+}
+.groupIcon8 {
+  top: 9.01%;
+  bottom: 90.88%;
+}
+.group16 {
+  position: absolute;
+  height: 3.54%;
+  width: 20.56%;
+  top: 22.53%;
+  right: 30.69%;
+  bottom: 73.93%;
+  left: 48.75%;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.sessionDetails {
+  position: relative;
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #030303;
+  font-family: Roboto;
+}
+.largeLabel {
+  height: 12em; /* 1em is approximately the height of one line of text */
+  white-space: pre-line; /* This makes newlines behave as expected */
+}
+.backButton {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.backButton:hover {
+  background-color: #0056b3;
+}
+
+.scrollableText {
+  overflow: auto;
+  max-height: 900px; /* この値は必要に応じて調整してください */
+}
+/* SessionDetails.module.css */
+.container {
+  background-color: #f0f0f0; /* 淡いグレー */
+}

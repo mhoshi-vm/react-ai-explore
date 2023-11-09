@@ -1,0 +1,1395 @@
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  height: 6.09%;
+  right: -0.07%;
+  bottom: 93.91%;
+  left: 0.07%;
+}
+.nterYourQuery {
+  position: absolute;
+  top: 25%;
+  left: 6.25%;
+}
+.group,
+.maskGroup {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group {
+  height: 2.33%;
+  width: 8.89%;
+  top: 9.85%;
+  right: 4.44%;
+  bottom: 87.82%;
+  left: 86.67%;
+  color: #1b1b1b;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3 {
+  position: absolute;
+  height: 15.04%;
+  width: 62.85%;
+  top: 30.33%;
+  right: 4.44%;
+  bottom: 54.63%;
+  left: 32.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon2,
+.groupIcon3 {
+  top: 46.92%;
+  bottom: 38.04%;
+}
+.groupIcon3 {
+  top: 63.51%;
+  bottom: 21.45%;
+}
+.groupIcon4,
+.search {
+  position: absolute;
+  left: 0;
+}
+.groupIcon4 {
+  height: 35.64%;
+  width: 29.31%;
+  top: 6.09%;
+  right: 70.69%;
+  bottom: 58.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search {
+  top: 0;
+}
+.group1,
+.maskGroup1,
+.results {
+  position: absolute;
+  top: 56.25%;
+  left: 0;
+}
+.group1,
+.maskGroup1 {
+  height: 177.78%;
+  width: 59.56%;
+  top: 5.56%;
+  right: 40.44%;
+  bottom: -83.33%;
+}
+.maskGroup1 {
+  height: 2.33%;
+  width: 9.44%;
+  top: 2.14%;
+  right: 86.25%;
+  bottom: 95.53%;
+  left: 4.31%;
+  font-size: 24px;
+}
+.group2,
+.group3,
+.group4 {
+  position: absolute;
+  height: 1.04%;
+  width: 4.03%;
+  top: 2.72%;
+  right: 80.83%;
+  bottom: 96.24%;
+  left: 15.14%;
+}
+.group3,
+.group4 {
+  width: 4.24%;
+  right: 72.43%;
+  left: 23.33%;
+}
+.group4 {
+  width: 2.99%;
+  right: 65.35%;
+  left: 31.67%;
+}
+.group5,
+.logIn {
+  position: absolute;
+  top: 26.32%;
+  left: 32.41%;
+}
+.group5 {
+  height: 2.46%;
+  width: 7.5%;
+  top: 2.07%;
+  right: 4.44%;
+  bottom: 95.46%;
+  left: 88.06%;
+  color: #fff;
+}
+.div,
+.group6 {
+  position: absolute;
+  top: 23.53%;
+  left: 29.61%;
+}
+.group6 {
+  height: 2.2%;
+  width: 14.31%;
+  top: 42.13%;
+  right: 5.56%;
+  bottom: 55.67%;
+  left: 80.14%;
+  color: #fff;
+}
+.group7,
+.group8,
+.j {
+  position: absolute;
+  top: 23.53%;
+  left: 28.88%;
+}
+.group7,
+.group8 {
+  height: 2.2%;
+  width: 14.31%;
+  top: 58.72%;
+  right: 5.56%;
+  bottom: 39.08%;
+  left: 80.14%;
+  color: #fff;
+}
+.group8 {
+  top: 75.31%;
+  bottom: 22.49%;
+}
+.group9,
+.signUp {
+  position: absolute;
+  top: 26.32%;
+  left: 30.17%;
+}
+.group9 {
+  height: 2.46%;
+  width: 8.06%;
+  top: 2.07%;
+  right: 13.06%;
+  bottom: 95.46%;
+  left: 78.89%;
+  color: #fff;
+}
+.frameIcon,
+.groupIcon5,
+.groupIcon6,
+.groupIcon7 {
+  position: absolute;
+  height: 0.06%;
+  width: 100%;
+  top: 6.09%;
+  right: 0;
+  bottom: 93.84%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon,
+.groupIcon6,
+.groupIcon7 {
+  width: 29.31%;
+  top: 41.74%;
+  right: 70.69%;
+  bottom: 58.2%;
+}
+.frameIcon,
+.groupIcon7 {
+  height: 1.3%;
+  width: 1.39%;
+  top: 8.17%;
+  right: 94.17%;
+  bottom: 90.54%;
+  left: 4.44%;
+}
+.groupIcon7 {
+  height: 82.44%;
+  width: 0.07%;
+  top: 6.16%;
+  right: 70.63%;
+  bottom: 11.41%;
+  left: 29.31%;
+}
+.group10,
+.group11 {
+  position: absolute;
+  height: 1.04%;
+  width: 23.68%;
+  top: 8.3%;
+  right: 43.61%;
+  bottom: 90.67%;
+  left: 32.71%;
+}
+.group11 {
+  height: 1.81%;
+  width: 11.67%;
+  top: 9.98%;
+  right: 55.63%;
+  bottom: 88.2%;
+  font-size: 24px;
+}
+.groupIcon8,
+.groupIcon9 {
+  position: absolute;
+  height: 12.96%;
+  width: 13.89%;
+  top: 47.96%;
+  right: 52.29%;
+  bottom: 39.08%;
+  left: 33.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon9 {
+  top: 64.55%;
+  bottom: 22.49%;
+}
+.group12,
+.group13,
+.group14 {
+  position: absolute;
+  height: 1.49%;
+  width: 24.17%;
+  top: 31.5%;
+  right: 27.01%;
+  bottom: 67.01%;
+  left: 48.82%;
+  font-size: 20px;
+}
+.group13,
+.group14 {
+  height: 1.36%;
+  width: 26.74%;
+  top: 47.96%;
+  right: 24.44%;
+  bottom: 50.68%;
+  font-size: 18px;
+}
+.group14 {
+  height: 1.49%;
+  width: 26.04%;
+  top: 64.68%;
+  right: 25.14%;
+  bottom: 33.83%;
+  font-size: 20px;
+}
+.group15,
+.group16,
+.group17 {
+  position: absolute;
+  height: 1.04%;
+  width: 7.15%;
+  top: 33.44%;
+  right: 44.03%;
+  bottom: 65.52%;
+  left: 48.82%;
+}
+.group16,
+.group17 {
+  width: 16.46%;
+  top: 50.16%;
+  right: 34.72%;
+  bottom: 48.8%;
+}
+.group17 {
+  width: 11.74%;
+  top: 66.75%;
+  right: 39.44%;
+  bottom: 32.21%;
+}
+.group18,
+.group19,
+.group20,
+.group21 {
+  position: absolute;
+  height: 1.04%;
+  width: 7.5%;
+  top: 34.74%;
+  right: 43.89%;
+  bottom: 64.23%;
+  left: 48.61%;
+}
+.group19,
+.group20,
+.group21 {
+  width: 16.11%;
+  top: 51.59%;
+  right: 35.07%;
+  bottom: 47.38%;
+  left: 48.82%;
+}
+.group20,
+.group21 {
+  width: 5.83%;
+  top: 34.87%;
+  right: 34.38%;
+  bottom: 64.1%;
+  left: 59.79%;
+}
+.group21 {
+  width: 7.22%;
+  top: 68.18%;
+  right: 33.61%;
+  bottom: 30.78%;
+  left: 59.17%;
+}
+.group22,
+.information,
+.maskGroup2 {
+  position: absolute;
+  top: 57.89%;
+  left: 0;
+}
+.group22,
+.maskGroup2 {
+  height: 172.73%;
+  width: 65.04%;
+  top: 9.09%;
+  right: 34.96%;
+  bottom: -81.82%;
+}
+.maskGroup2 {
+  height: 1.43%;
+  width: 8.54%;
+  top: 68.05%;
+  right: 42.64%;
+  bottom: 30.52%;
+  left: 48.82%;
+}
+.frameIcon1,
+.frameIcon2 {
+  position: absolute;
+  height: 0.13%;
+  width: 0.14%;
+  top: 35.52%;
+  right: 41.18%;
+  bottom: 64.36%;
+  left: 58.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon2 {
+  top: 68.7%;
+  right: 41.67%;
+  bottom: 31.17%;
+  left: 58.19%;
+}
+.group23,
+.group24,
+.group25,
+.group26,
+.group27 {
+  position: absolute;
+  height: 1.04%;
+  width: 4.93%;
+  top: 37.46%;
+  right: 46.25%;
+  bottom: 61.5%;
+  left: 48.82%;
+}
+.group24,
+.group25,
+.group26,
+.group27 {
+  width: 10.83%;
+  top: 54.05%;
+  right: 40.35%;
+  bottom: 44.91%;
+}
+.group25,
+.group26,
+.group27 {
+  width: 7.92%;
+  top: 70.64%;
+  right: 43.26%;
+  bottom: 28.32%;
+}
+.group26,
+.group27 {
+  width: 7.57%;
+  top: 38.89%;
+  right: 43.61%;
+  bottom: 60.08%;
+}
+.group27 {
+  height: 2.46%;
+  width: 11.32%;
+  top: 55.48%;
+  right: 39.86%;
+  bottom: 42.06%;
+}
+.group28,
+.group29,
+.group30,
+.group31 {
+  position: absolute;
+  height: 1.04%;
+  width: 11.67%;
+  top: 72.07%;
+  right: 39.51%;
+  bottom: 26.9%;
+  left: 48.82%;
+}
+.group29,
+.group30,
+.group31 {
+  width: 7.01%;
+  top: 40.31%;
+  right: 6.25%;
+  bottom: 58.65%;
+  left: 86.74%;
+}
+.group30,
+.group31 {
+  width: 6.94%;
+  top: 56.9%;
+  right: 6.18%;
+  bottom: 42.06%;
+  left: 86.88%;
+}
+.group31 {
+  top: 73.49%;
+  bottom: 25.47%;
+}
+.div2,
+.group32 {
+  position: absolute;
+  top: 23.33%;
+  left: 10.1%;
+}
+.group32 {
+  height: 1.94%;
+  width: 6.88%;
+  top: 42.38%;
+  right: 44.31%;
+  bottom: 55.67%;
+  left: 48.82%;
+  font-size: 12px;
+  color: #fff;
+}
+.div3,
+.group33 {
+  position: absolute;
+  top: 23.33%;
+  left: 33.15%;
+}
+.group33 {
+  height: 1.94%;
+  width: 6.39%;
+  top: 75.57%;
+  right: 44.79%;
+  bottom: 22.49%;
+  left: 48.82%;
+  font-size: 12px;
+  color: #fff;
+}
+.div4,
+.group34 {
+  position: absolute;
+  top: 23.33%;
+  left: 31.98%;
+}
+.group34 {
+  height: 1.94%;
+  width: 5.97%;
+  top: 58.98%;
+  right: 45.21%;
+  bottom: 39.08%;
+  left: 48.82%;
+  font-size: 12px;
+  color: #fff;
+}
+.div5 {
+  top: 23.33%;
+  left: 28.13%;
+}
+.div5,
+.div6,
+.group35 {
+  position: absolute;
+}
+.group35 {
+  height: 1.94%;
+  width: 6.67%;
+  top: 58.98%;
+  right: 37.99%;
+  bottom: 39.08%;
+  left: 55.35%;
+  font-size: 12px;
+  color: #fff;
+}
+.div6 {
+  top: 21.88%;
+  left: 34.17%;
+}
+.group36,
+.group37 {
+  position: absolute;
+  height: 2.07%;
+  width: 4.17%;
+  top: 31.63%;
+  right: 5.56%;
+  bottom: 66.3%;
+  left: 90.28%;
+  color: #fff;
+}
+.group37 {
+  top: 64.81%;
+  bottom: 33.12%;
+}
+.group38 {
+  position: absolute;
+  height: 1.23%;
+  width: 2.36%;
+  top: 31.46%;
+  right: 10.56%;
+  bottom: 67.3%;
+  left: 87.08%;
+  font-size: 16px;
+}
+.session,
+.summaries {
+  position: absolute;
+  top: 35.82%;
+  left: 40.96%;
+}
+.summaries {
+  top: 71.64%;
+  left: 10.84%;
+}
+.group39,
+.maskGroup3 {
+  position: absolute;
+  height: 279.17%;
+  width: 60.14%;
+  top: 6.25%;
+  right: 7.25%;
+  bottom: -185.42%;
+  left: 32.61%;
+}
+.maskGroup3 {
+  height: 1.56%;
+  width: 9.58%;
+  top: 47.96%;
+  right: 10.28%;
+  bottom: 50.49%;
+  left: 80.14%;
+  font-size: 16px;
+}
+.group40,
+.rating {
+  position: absolute;
+  top: 55.81%;
+  left: 66.36%;
+}
+.group40 {
+  height: 179.17%;
+  width: 79.71%;
+  top: 6.25%;
+  right: 5.8%;
+  bottom: -85.42%;
+  left: 14.49%;
+}
+.group41,
+.maskGroup4 {
+  position: absolute;
+  height: 1.56%;
+  width: 9.58%;
+  top: 64.55%;
+  right: 10.28%;
+  bottom: 33.9%;
+  left: 80.14%;
+  font-size: 16px;
+}
+.group41 {
+  height: 0.91%;
+  width: 3.96%;
+  top: 32.92%;
+  right: 10.69%;
+  bottom: 66.17%;
+  left: 85.35%;
+  font-size: 12px;
+}
+.group42,
+.summarized {
+  position: absolute;
+  top: 53.33%;
+  left: 47.32%;
+}
+.group42 {
+  height: 187.5%;
+  width: 81.16%;
+  top: 0;
+  right: 7.25%;
+  bottom: -87.5%;
+  left: 11.59%;
+}
+.group43,
+.maskGroup5 {
+  position: absolute;
+  height: 1.04%;
+  width: 9.58%;
+  top: 49.51%;
+  right: 10.28%;
+  bottom: 49.45%;
+  left: 80.14%;
+  font-size: 12px;
+}
+.group43 {
+  height: 0.91%;
+  width: 3.96%;
+  top: 66.1%;
+  right: 10.69%;
+  bottom: 32.99%;
+  left: 85.35%;
+}
+.groupIcon10 {
+  position: absolute;
+  height: 12.96%;
+  width: 13.89%;
+  top: 31.37%;
+  right: 52.29%;
+  bottom: 55.67%;
+  left: 33.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group44 {
+  position: absolute;
+  height: 1.49%;
+  width: 6.53%;
+  top: 10.76%;
+  right: 89.03%;
+  bottom: 87.75%;
+  left: 4.44%;
+  font-size: 20px;
+}
+.group45,
+.group46,
+.group47,
+.group48,
+.vectorIcon13 {
+  position: absolute;
+  height: 1.04%;
+  width: 3.06%;
+  top: 13.74%;
+  right: 92.5%;
+  bottom: 85.22%;
+  left: 4.44%;
+}
+.group46,
+.group47,
+.group48,
+.vectorIcon13 {
+  width: 1.81%;
+  top: 19.18%;
+  right: 93.75%;
+  bottom: 79.78%;
+}
+.group47,
+.group48,
+.vectorIcon13 {
+  width: 1.94%;
+  top: 24.63%;
+  right: 93.61%;
+  bottom: 74.34%;
+}
+.group48,
+.vectorIcon13 {
+  width: 3.96%;
+  top: 30.07%;
+  right: 91.6%;
+  bottom: 68.89%;
+}
+.vectorIcon13 {
+  height: 119.05%;
+  width: 102.58%;
+  top: -4.76%;
+  right: -1.94%;
+  bottom: -14.29%;
+  left: -0.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nterSessionName {
+  position: absolute;
+  top: 28.57%;
+  left: 2.58%;
+}
+.group49,
+.group50,
+.group51,
+.group52 {
+  position: absolute;
+  height: 2.72%;
+  width: 21.53%;
+  top: 15.29%;
+  right: 74.03%;
+  bottom: 81.98%;
+  left: 4.44%;
+  color: #1b1b1b;
+}
+.group50,
+.group51,
+.group52 {
+  top: 20.74%;
+  bottom: 76.54%;
+}
+.group51,
+.group52 {
+  top: 26.18%;
+  bottom: 71.1%;
+}
+.group52 {
+  top: 31.63%;
+  bottom: 65.65%;
+}
+.frameIcon3,
+.frameIcon4,
+.frameIcon5,
+.frameIcon6 {
+  position: absolute;
+  height: 1.04%;
+  width: 1.11%;
+  top: 16.14%;
+  right: 93.33%;
+  bottom: 82.83%;
+  left: 5.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon4,
+.frameIcon5,
+.frameIcon6 {
+  top: 21.58%;
+  bottom: 77.38%;
+}
+.frameIcon5,
+.frameIcon6 {
+  top: 27.03%;
+  bottom: 71.94%;
+}
+.frameIcon6 {
+  top: 32.47%;
+  bottom: 66.49%;
+}
+.group53,
+.search1 {
+  position: absolute;
+  top: 28.57%;
+  left: 43.06%;
+}
+.group53 {
+  height: 2.72%;
+  width: 21.53%;
+  top: 35.9%;
+  right: 74.03%;
+  bottom: 61.37%;
+  left: 4.44%;
+  color: #fff;
+}
+.group54,
+.group55,
+.group56 {
+  position: absolute;
+  height: 1.49%;
+  width: 3.47%;
+  top: 44.01%;
+  right: 92.08%;
+  bottom: 54.5%;
+  left: 4.44%;
+  font-size: 20px;
+}
+.group55,
+.group56 {
+  width: 5.97%;
+  top: 56.77%;
+  right: 89.72%;
+  bottom: 41.74%;
+  left: 4.31%;
+}
+.group56 {
+  width: 7.57%;
+  top: 69.09%;
+  right: 88.13%;
+  bottom: 29.42%;
+}
+.group57,
+.group58 {
+  position: absolute;
+  height: 1.04%;
+  width: 7.36%;
+  top: 46.73%;
+  right: 86.11%;
+  bottom: 52.24%;
+  left: 6.53%;
+}
+.group58 {
+  width: 1.46%;
+  top: 59.49%;
+  right: 92.15%;
+  bottom: 39.47%;
+  left: 6.39%;
+}
+.group59,
+.maskGroup6 {
+  position: absolute;
+  height: 172.73%;
+  width: 68.09%;
+  top: 9.09%;
+  right: 31.91%;
+  bottom: -81.82%;
+  left: 0;
+}
+.maskGroup6 {
+  height: 1.43%;
+  width: 9.79%;
+  top: 61.57%;
+  right: 83.82%;
+  bottom: 37.01%;
+  left: 6.39%;
+}
+.group60,
+.maskGroup7 {
+  position: absolute;
+  height: 172.73%;
+  width: 90.06%;
+  top: 9.09%;
+  right: 9.94%;
+  bottom: -81.82%;
+  left: 0;
+}
+.maskGroup7 {
+  height: 1.43%;
+  width: 11.18%;
+  top: 51%;
+  right: 82.29%;
+  bottom: 47.57%;
+  left: 6.53%;
+}
+.group61,
+.maskGroup8 {
+  position: absolute;
+  height: 172.73%;
+  width: 72.34%;
+  top: 9.09%;
+  right: 27.66%;
+  bottom: -81.82%;
+  left: 0;
+}
+.maskGroup8 {
+  height: 1.43%;
+  width: 9.79%;
+  top: 63.77%;
+  right: 83.82%;
+  bottom: 34.8%;
+  left: 6.39%;
+}
+.group62,
+.maskGroup9 {
+  position: absolute;
+  height: 172.73%;
+  width: 81.5%;
+  top: 9.09%;
+  right: 18.5%;
+  bottom: -81.82%;
+  left: 0;
+}
+.maskGroup9 {
+  height: 1.43%;
+  width: 12.01%;
+  top: 53.21%;
+  right: 81.46%;
+  bottom: 45.37%;
+  left: 6.53%;
+}
+.group63,
+.maskGroup10 {
+  position: absolute;
+  height: 172.73%;
+  width: 64.41%;
+  top: 9.09%;
+  right: 35.59%;
+  bottom: -81.82%;
+  left: 0;
+}
+.maskGroup10 {
+  height: 1.43%;
+  width: 8.19%;
+  top: 65.98%;
+  right: 85.42%;
+  bottom: 32.6%;
+  left: 6.39%;
+}
+.groupIcon11,
+.groupIcon12 {
+  position: absolute;
+  height: 1.17%;
+  width: 1.25%;
+  top: 46.73%;
+  right: 94.31%;
+  bottom: 52.11%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon12 {
+  top: 59.49%;
+  right: 94.44%;
+  bottom: 39.34%;
+  left: 4.31%;
+}
+.groupIcon13,
+.groupIcon14,
+.groupIcon15,
+.groupIcon16,
+.groupIcon17,
+.groupIcon18,
+.vectorIcon18 {
+  position: absolute;
+  height: 1.17%;
+  width: 1.25%;
+  top: 51.13%;
+  right: 94.31%;
+  bottom: 47.7%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon14,
+.groupIcon15,
+.groupIcon16,
+.groupIcon17,
+.groupIcon18,
+.vectorIcon18 {
+  top: 63.9%;
+  right: 94.44%;
+  bottom: 34.93%;
+  left: 4.31%;
+}
+.groupIcon15,
+.groupIcon16,
+.groupIcon17,
+.groupIcon18,
+.vectorIcon18 {
+  top: 61.7%;
+  bottom: 37.14%;
+}
+.groupIcon16,
+.groupIcon17,
+.groupIcon18,
+.vectorIcon18 {
+  top: 53.34%;
+  right: 94.31%;
+  bottom: 45.5%;
+  left: 4.44%;
+}
+.groupIcon17,
+.groupIcon18,
+.vectorIcon18 {
+  top: 66.1%;
+  right: 94.44%;
+  bottom: 32.73%;
+  left: 4.31%;
+}
+.groupIcon18,
+.vectorIcon18 {
+  height: 6.48%;
+  width: 6.94%;
+  top: 0;
+  right: 93.06%;
+  bottom: 93.52%;
+  left: 0;
+}
+.groupIcon18 {
+  height: 1.56%;
+  width: 1.67%;
+  top: 83.73%;
+  right: 40.49%;
+  bottom: 14.71%;
+  left: 57.85%;
+}
+.group64 {
+  position: absolute;
+  height: 1.04%;
+  width: 0.49%;
+  top: 83.93%;
+  right: 41.18%;
+  bottom: 15.04%;
+  left: 58.33%;
+}
+.group65 {
+  position: absolute;
+  right: 38.61%;
+  left: 60.9%;
+}
+.group65,
+.group66,
+.group67 {
+  height: 1.04%;
+  width: 0.49%;
+  top: 83.93%;
+  bottom: 15.04%;
+}
+.group66 {
+  position: absolute;
+  right: 35.76%;
+  left: 63.75%;
+}
+.group67 {
+  right: 32.92%;
+  left: 66.6%;
+}
+.div13,
+.group67,
+.group68 {
+  position: absolute;
+}
+.group68 {
+  height: 1.04%;
+  width: 0.49%;
+  top: 83.93%;
+  right: 30.07%;
+  bottom: 15.04%;
+  left: 69.44%;
+}
+.div13 {
+  top: 20%;
+  left: 41.67%;
+}
+.group69,
+.group70,
+.group71,
+.group72,
+.group73 {
+  position: absolute;
+  height: 1.94%;
+  width: 3.33%;
+  top: 72.2%;
+  right: 92.22%;
+  bottom: 25.86%;
+  left: 4.44%;
+  color: #fff;
+}
+.group70,
+.group71,
+.group72,
+.group73 {
+  right: 88.33%;
+  left: 8.33%;
+}
+.group71,
+.group72,
+.group73 {
+  right: 84.44%;
+  left: 12.22%;
+}
+.group72,
+.group73 {
+  right: 80.56%;
+  left: 16.11%;
+}
+.group73 {
+  right: 76.67%;
+  left: 20%;
+}
+.frameIcon10,
+.frameIcon11,
+.frameIcon7,
+.frameIcon8,
+.frameIcon9,
+.groupIcon19 {
+  position: absolute;
+  height: 0.78%;
+  width: 0.83%;
+  top: 72.72%;
+  right: 93.13%;
+  bottom: 26.51%;
+  left: 6.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameIcon10,
+.frameIcon11,
+.frameIcon8,
+.frameIcon9,
+.groupIcon19 {
+  right: 89.24%;
+  left: 9.93%;
+}
+.frameIcon10,
+.frameIcon11,
+.frameIcon9,
+.groupIcon19 {
+  right: 85.35%;
+  left: 13.82%;
+}
+.frameIcon10,
+.frameIcon11,
+.groupIcon19 {
+  right: 81.46%;
+  left: 17.71%;
+}
+.frameIcon11,
+.groupIcon19 {
+  right: 77.57%;
+  left: 21.6%;
+}
+.groupIcon19 {
+  height: 1.17%;
+  width: 1.25%;
+  top: 48.93%;
+  right: 94.31%;
+  bottom: 49.9%;
+  left: 4.44%;
+}
+.group74,
+.group75,
+.groupIcon20 {
+  position: absolute;
+  height: 1.04%;
+  width: 5.14%;
+  top: 48.93%;
+  right: 88.33%;
+  bottom: 50.03%;
+  left: 6.53%;
+}
+.group75,
+.groupIcon20 {
+  width: 2.22%;
+  top: 44.26%;
+  right: 74.24%;
+  bottom: 54.7%;
+  left: 23.54%;
+}
+.groupIcon20 {
+  height: 15.04%;
+  width: 62.85%;
+  top: 13.74%;
+  right: 4.44%;
+  bottom: 71.22%;
+  left: 32.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group76,
+.groupIcon21 {
+  position: absolute;
+  bottom: 72.26%;
+}
+.group76 {
+  height: 2.2%;
+  width: 14.31%;
+  top: 25.53%;
+  right: 5.56%;
+  left: 80.14%;
+  color: #fff;
+}
+.groupIcon21 {
+  height: 12.96%;
+  width: 13.89%;
+  top: 14.78%;
+  right: 52.29%;
+  left: 33.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group77 {
+  position: absolute;
+  height: 1.49%;
+  width: 19.65%;
+  top: 14.91%;
+  right: 31.53%;
+  bottom: 83.6%;
+  left: 48.82%;
+  font-size: 20px;
+}
+.frameIcon12,
+.group78,
+.group79,
+.group80 {
+  position: absolute;
+  height: 1.04%;
+  width: 7.15%;
+  top: 16.98%;
+  right: 44.03%;
+  bottom: 81.98%;
+  left: 48.82%;
+}
+.frameIcon12,
+.group79,
+.group80 {
+  width: 6.32%;
+  top: 18.41%;
+  right: 44.86%;
+  bottom: 80.56%;
+}
+.frameIcon12,
+.group80 {
+  width: 5.83%;
+  right: 35.63%;
+  left: 58.54%;
+}
+.frameIcon12 {
+  height: 0.13%;
+  width: 0.14%;
+  top: 18.92%;
+  right: 42.29%;
+  bottom: 80.95%;
+  left: 57.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group81,
+.group82,
+.group83 {
+  position: absolute;
+  height: 1.04%;
+  width: 4.93%;
+  top: 20.87%;
+  right: 46.25%;
+  bottom: 78.09%;
+  left: 48.82%;
+}
+.group82,
+.group83 {
+  width: 7.57%;
+  top: 22.29%;
+  right: 43.61%;
+  bottom: 76.67%;
+}
+.group83 {
+  width: 7.01%;
+  top: 23.72%;
+  right: 6.25%;
+  bottom: 75.24%;
+  left: 86.74%;
+}
+.group84 {
+  height: 1.94%;
+  width: 6.88%;
+  top: 25.79%;
+  right: 44.31%;
+  bottom: 72.26%;
+  left: 48.82%;
+  font-size: 12px;
+}
+.group84,
+.group85,
+.group86 {
+  position: absolute;
+  color: #fff;
+}
+.group85 {
+  height: 1.94%;
+  width: 5.97%;
+  top: 25.79%;
+  right: 38.26%;
+  bottom: 72.26%;
+  left: 55.76%;
+  font-size: 12px;
+}
+.group86 {
+  height: 2.07%;
+  width: 4.17%;
+  top: 15.04%;
+  right: 5.56%;
+  bottom: 82.89%;
+  left: 90.28%;
+}
+.group87,
+.group88 {
+  position: absolute;
+  height: 1.23%;
+  width: 4.03%;
+  top: 14.87%;
+  right: 10.76%;
+  bottom: 83.9%;
+  left: 85.21%;
+  font-size: 16px;
+}
+.group88 {
+  height: 0.91%;
+  width: 4.51%;
+  top: 16.33%;
+  bottom: 82.76%;
+  left: 84.72%;
+  font-size: 12px;
+}
+.group89,
+.search2 {
+  position: absolute;
+  top: 21.88%;
+  left: 14.17%;
+}
+.group89 {
+  height: 2.07%;
+  width: 4.17%;
+  top: 48.22%;
+  right: 5.56%;
+  bottom: 49.71%;
+  left: 90.28%;
+  color: #fff;
+}
+.searchSessionResults {
+  position: relative;
+  width: 100%;
+  /* height: 1543px; Remove or change this */
+  overflow: auto;
+  /* Change this to 'auto' to enable scrolling */
+  text-align: left;
+  font-size: 16px;
+  color: #030303;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+.backButton {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.backButton:hover {
+  background-color: #0056b3;
+}

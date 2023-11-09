@@ -203,7 +203,7 @@
 
 .startSearching {
   position: relative; /* absoluteからrelativeに変更 */
-  width: 1000px;
+  width: 800px;
   height: 50px;
   border: 2px solid rgb(120, 118, 118);
   background: transparent;

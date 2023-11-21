@@ -1,240 +1,36 @@
-.groupIcon,
-.vectorIcon {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-  pointer-events: none; /* この行を追加 */
-}
-.groupIcon {
-  height: 89.33%;
-  width: 46.67%;
-  top: 5.33%;
-  right: 50%;
-  bottom: 5.33%;
-  left: 3.33%;
-}
-.group {
-  position: relative;
-  height: 5.33%;
-  width: 11.25%;
-  z-index: 1;
-  pointer-events: none; /* この行を追加 */
-}
-
-/* ここにはpointer-events: none;を追加しないでください */
-.group {
-  height: 5.33%;
-  width: 11.25%;
-  top: 64.11%;
-  right: 20%;
-  bottom: 30.56%;
-  left: 68.75%;
-}
-.aiSearchOn,
-.vmwareExploreUs {
-  position: relative;
-  top: 0;
-  left: 32.27%;
-}
-.vmwareExploreUs {
-  top: 34.09%;
-  left: 18.09%;
-}
-.group1,
-.keynoteTechnical {
-  position: relative;
-  top: 68.18%;
-  left: 0;
-}
-.group1 {
-  height: 9.78%;
-  width: 19.58%;
-  top: 50.44%;
-  right: 17.08%;
-  bottom: 39.78%;
-  left: 63.33%;
-  font-size: 24px;
-  color: #023f81;
-}
-.group2 {
-  height: 6.22%;
-  width: 41.39%;
-  top: 43.61%;
-  right: 7.01%;
-  bottom: 50.17%;
-  left: 51.6%;
-  font-size: 48px;
-  color: #030303;
-}
-.groupIcon1,
-.groupIcon2 {
-  position: absolute;
-  height: 56.89%;
-  width: 35.56%;
-  top: 21.56%;
-  right: 55.56%;
-  bottom: 21.56%;
-  left: 8.89%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-}
-.groupIcon2 {
-  height: 10.67%;
-  width: 6.67%;
-  top: 30.56%;
-  right: 22.36%;
-  bottom: 58.78%;
-  left: 70.97%;
-}
-.start {
-  position: relative;
-  width: 100%;
-  height: 900px;
-  overflow: hidden;
-  text-align: left;
-  font-size: 14px;
-  color: #131619;
-  font-family: Roboto;
-}
-/* 既存のスタイル定義... */
-.left,
-.right {
-  display: flex;
-  flex-direction: column; /* 要素を縦に並べる */
-  justify-content: center;
-  align-items: center;
-}
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  height: 100vh;
-}
-
-.top {
-  text-align: center;
-}
-
-.bottom {
-  text-align: center;
-}
-.right {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
   align-items: center;
-  height: 100vh;
-}
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 100vh;
-}
-.right {
-  display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: flex-end;
   height: 100vh;
-  padding: 20px; /* 必要に応じて調整 */
-}
-
-.startSearching {
-  position: relative; /* absoluteからrelativeに変更 */
-  width: 200px;
-  height: 50px;
-  border: 2px solid rgb(120, 118, 118);
-  background: transparent;
-  z-index: 3;
-  pointer-events: auto;
 }
 
 .textBlock {
+  display: flex;
+  justify-content: center;
   width: 100%; /* テキストエリアの幅を最大に設定 */
   height: 100px; /* テキストエリアの高さを設定 */
   margin-bottom: 20px; /* ボタンとテキストエリアの間にスペースを追加 */
 }
 
 .startSearching {
-  position: relative; /* absoluteからrelativeに変更 */
-  width: 200px;
-  height: 50px;
-  border: 2px solid rgb(120, 118, 118);
-  background: transparent;
-  z-index: 3;
-  pointer-events: auto;
-  font-family: sans-serif;
-  background-color: #f0f0f0;
-  margin: 0 auto; /* ボタンを中央に配置 */
-  display: block; /* ボタンをブロックレベル要素に設定 */
-}
-.group2,
-.tanzuGreenplumWithPgvector {
-  position: relative;
-  font-family: Roboto;
-  font-size: xx-large;
-  top: 0;
-  left: 0;
-}
-
-.textBlock {
-  width: 100%; /* テキストエリアの幅を親要素の幅いっぱいに設定 */
-  height: 100px; /* テキストエリアの高さを設定 */
-  margin-bottom: 20px; /* ボタンとテキストエリアの間にスペースを追加 */
-  z-index: 10; /* z-indexを追加してテキストエリアを前面に表示 */
-  position: relative; /* z-indexを有効にするためにpositionを設定 */
-}
-
-.buttonContainer {
-  display: flex; /* 追加 */
-  flex-direction: column; /* 追加 */
-  justify-content: center; /* 子要素を中央に配置 */
-  align-items: stretch; /* 子要素を親要素の幅いっぱいに広げる */
-}
-
-.startSearching {
-  position: relative; /* absoluteからrelativeに変更 */
-  width: 800px;
-  height: 50px;
-  border: 2px solid rgb(120, 118, 118);
-  background: transparent;
-  z-index: 3;
-  pointer-events: auto;
-  font-family: sans-serif;
-  background-color: #007bff;
-  color: #fff; /* 文字色を白に設定 */
+  background-color: blue; /* ボタンの背景色を青に設定 */
+  color: white; /* ボタンの文字色を白に設定 */
+  width: 80vw;
+  max-width: 500px;
+  height: 60px; /* ボタンの高さを60pxに設定 */
   font-size: 20px; /* フォントサイズを20pxに設定 */
-  margin: 0 auto; /* ボタンを中央に配置 */
-  display: block; /* ボタンをブロックレベル要素に設定 */
 }
 
-.parent {
-  position: relative; /* 子要素の絶対位置を親要素に対して設定するために必要 */
+.group1 {
+  font-size: 20px; /* フォントサイズを20pxに設定 */
+  position: relative;
+  top: -250px; /* 例として50px上に移動。必要に応じて値を調整してください */
 }
 
-.centeredGroup1 {
-  position: absolute; /* 親要素に対して絶対位置を設定 */
-  right: 0%; /* 親要素の右端から50%離れて配置 */
-  top: 20%; /* 親要素の中央より上に配置 */
-  transform: translateX(-35%) translateY(-50%); /* 自身の幅の半分だけ左に、高さの半分だけ上に移動して完全に中央に配置 */
-  white-space: nowrap; /* テキストを一行に収める */
-  z-index: 10; /* テキストを他の要素の前面に表示 */
-}
-
-.centeredGroup2 {
-  position: absolute; /* 親要素に対して絶対位置を設定 */
-  right: 0%; /* 親要素の右端から50%離れて配置 */
-  top: 30%; /* 親要素の中央より少し上に配置 */
-  transform: translateX(-50%) translateY(-50%); /* 自身の幅の半分だけ左に、高さの半分だけ上に移動して完全に中央に配置 */
-  white-space: nowrap; /* テキストを一行に収める */
-  z-index: 10; /* テキストを他の要素の前面に表示 */
+.aiSearchOn,
+.tanzuGreenplumWithPgvector {
+  display: block;
+  text-align: center;
 }

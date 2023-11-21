@@ -13,41 +13,37 @@ function Start() {
 
   return (
     <div className={styles.container}>
-      <div className={styles.top}>
-        <img className={styles.groupIcon} alt="" src="/group.svg" />
+      {/* <img className={styles.groupIcon} alt="" src="/group.svg" /> */}
+      <div className={styles.buttonContainer}>
+        <textarea
+          ref={textAreaRef}
+          className={styles.textBlock}
+          onChange={(e) => setText(e.target.value)}
+        />
+        <button
+          className={styles.startSearching}
+          onClick={() =>
+            navigate(`/search?query=${encodeURIComponent(text)}`)
+          }
+        >
+          これで検索する
+        </button>
       </div>
-      <div className={styles.right}>
-        <div className={styles.buttonContainer}>
-          <textarea
-            ref={textAreaRef}
-            className={styles.textBlock}
-            onChange={(e) => setText(e.target.value)}
-          />
-          <button
-            className={styles.startSearching}
-            onClick={() =>
-              navigate(`/search?query=${encodeURIComponent(text)}`)
-            }
-          >
-            これで検索する
-          </button>
+      <div className={styles.group1}>
+        <div className={styles.aiSearchOn}>
+          AI Search on VMware Explore US
+          <br />
+          Keynote & Technical Sessions
         </div>
-        <div className={`${styles.group1} ${styles.centeredGroup1}`}>
-          <div className={styles.aiSearchOn}>
-            AI Search on VMware Explore US
-            <br />
-            Keynote & Technical Sessions
-          </div>
-        </div>
-        <div className={`${styles.group} ${styles.centeredGroup2}`}>
-          <div className={styles.tanzuGreenplumWithPgvector}>
-            Question Answering with
-            <br />
-            VMware’s pgVector/Greenplum
-          </div>
-        </div>{" "}
-        <img className={styles.groupIcon1} alt="" src="/PrivateAIBrain.svg" />
       </div>
+      <div className={styles.group}>
+        <div className={styles.tanzuGreenplumWithPgvector}>
+          Question Answering with
+          <br />
+          VMware’s pgVector/Greenplum
+        </div>
+      </div>
+      <img className={styles.groupIcon1} alt="" src="/PrivateAIBrain.svg" />
     </div>
   );
 }

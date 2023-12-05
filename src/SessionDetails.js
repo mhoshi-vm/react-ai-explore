@@ -17,6 +17,7 @@ const SessionDetails = () => {
 
     eventSource.onerror = function (error) {
       console.error("Error fetching data: ", error);
+      eventSource.close();
     };
 
     return () => {

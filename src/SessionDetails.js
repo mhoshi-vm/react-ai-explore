@@ -8,7 +8,7 @@ const SessionDetails = () => {
 
   useEffect(() => {
     const eventSource = new EventSource(
-      `https://explore-api-explore.tap01.cl01.lespaulstudioplus.info/api/summarize?sessionId=${sessionId}&sequence=1`
+      `https://explore-api-explore.tap.aws.lespaulstudioplus.info/api/summarize?sessionId=${sessionId}&sequence=1`
     );
 
     eventSource.onmessage = function (event) {

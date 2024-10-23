@@ -16,7 +16,7 @@ const SearchSessionResults = () => {
     const source = axios.CancelToken.source();
     axios
       .get(
-        `https://explore-api-explore.tap01.cl01.lespaulstudioplus.info/api/search?prompt=${encodeURIComponent(
+        `https://explore-api-explore.tap.aws.lespaulstudioplus.info/api/search?prompt=${encodeURIComponent(
           query
         )}&limit=20`,
         {
